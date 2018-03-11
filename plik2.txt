@@ -1,1 +1,2 @@
 plik numer 2
+changes in branch master

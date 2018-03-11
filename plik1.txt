@@ -1,1 +1,2 @@
 plik numer 1
+changed this file in this line
